@@ -8,17 +8,10 @@ int main(){
   cout<<"Ievadiet x vertību: "; cin>>x;
   cout<<"Ievadiet y vertību: "; cin>>y;
   cout<<"Ievadiet z vertību: "; cin>>z;
-  if(x>y){
-    if(x>z){
-      cout<<"x ("<<x<<")"<<" ir lielākais no visiem ("<<x<<" "<<y<<" "<<z;
-    }else{
-      cout<<"z ("<<z<<")"<<" ir lielākais no visiem ("<<x<<" "<<y<<" "<<z;
-    }
-  }else{
-    if(y>z){
+  if(x>y && x>z)
+      cout<<"x ("<<x<<")"<<" ir lielākais no skaitļiem ("<<x<<" "<<y<<" "<<z;
+    else if (y>z)
       cout<<"y ("<<y<<")"<<" ir lielākais no visiem ("<<x<<" "<<y<<" "<<z;
-    }else{
-      cout<<"z ("<<z<<")"<<" ir lielākais no visiem ("<<x<<" "<<y<<" "<<z;
-    }
-  }
+      else
+          cout<<"z ("<<z<<")"<<" ir lielākais no visiem ("<<x<<" "<<y<<" "<<z;
 }
