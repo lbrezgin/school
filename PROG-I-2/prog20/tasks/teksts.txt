@@ -1,0 +1,3 @@
+CEO krapšana jeb biznesa e-pastu kompromitēšana
+
+Kibernoziedznieki turpina pilnveidot e-pastu krāpniecību, ko sauc arī par CEO krāpšanu vai biznesa e-pastu kompromitēšanu (CEO Fraud / BEC). Tas ir mērķtiecīgi organizēts uzbrukums, izmantojot e-pastu, lai apmānītu upuri, liekot tam veikt darbības, kuru rezultātā upuris labprātīgi sķiras no naudas vai informācijas. Vairumā gadījumu tiek mēģināts izkrāpt naudu. Šos uzbrukumus īpaši bīstamus padara tas, ka ļaundari pirms uzbrukuma veic potenciālā upura padziļinātu izpēti. Arī drošības risinājumi bieži vien ir bezspēcīgi šadu uzbrukumu priekšā, jo nav inficētu epasta pielikumu vai ļaundabīgu saišu, ko tehnoloģijas varētu atpazīt un nobloķēt.

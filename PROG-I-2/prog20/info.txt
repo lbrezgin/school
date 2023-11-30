@@ -1,0 +1,2 @@
+Plašāka tehnoloģiju izmantošana rosina pievērst lielāku uzmanību kiberdrošībai
+Kaut arī daudzus uzbrukumus izdodas novērst, kiberuzbrucēji izmanto tehnoloģiju lietotāju nepietiekamās zināšanas, atbildības trūkumu vai informācijas sistēmu nepilnības, lai veiktu uzbrukumus. Turklāt sekmīgo kiberuzbrukumu skaits liecina, ka izpratne par kiberdrošību nav spējusi tikt līdzi tehnoloģiju izaugsmei, secināts gadskārtējā kiberdrošības konferencē "Kiberšahs".

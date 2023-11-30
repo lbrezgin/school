@@ -1,0 +1,7 @@
+Klade(rūtiņu) 10 1.24
+Klade(līniju) 5	0.97
+Burtnīca(rūtiņu) 10 0.25
+Burtnīca(līniju) 6 0.25
+Zīlumis(parastais) 3 0.13
+Pildspalva(zila) 4 0.65
+Pildspalva(sarkana) 1 0.90

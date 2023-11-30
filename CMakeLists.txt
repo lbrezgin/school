@@ -104,4 +104,15 @@ add_executable(coding
         PROG-I-2/prog17/47.cpp
         PROG-I-2/prog17/48.cpp
         PROG-I-2/prog17/v.cpp
-        PROG-I-2/prog17/tasks/17.cpp)
+        PROG-I-2/prog17/tasks/17.cpp
+        PROG-I-2/prog20/49.cpp
+        PROG-I-2/prog20/50.cpp
+        PROG-I-2/prog20/51.cpp
+        PROG-I-2/prog20/52.cpp
+        PROG-I-2/prog20/video.cpp
+        PROG-I-2/prog20/video2.cpp
+        PROG-I-2/prog20/v3.cpp
+        PROG-I-2/prog20/v4.cpp
+        PROG-I-2/prog20/tasks/20.1.cpp
+        PROG-I-2/prog20/tasks/20.2.cpp
+        PROG-I-2/prog20/tasks/20.3.cpp)
